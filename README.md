@@ -8,7 +8,7 @@ The overall goal of this project is to analyze election data from Colorado and d
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candiates who received votes.
-3. Calcualte the total number of votes each candidate received
+3. Calculate the total number of votes each candidate received
 4. Calcualte the percentage of votes each candidate won.
 5. Determine the winner of the election based on the popualr vote. 
 
@@ -35,5 +35,4 @@ The winner of the election was Diana DeGette. She received the highest number of
 
 ## Summary
 
-### Pros and Cons of Refactoring the Code
 
