@@ -11,7 +11,7 @@ The overall goal of this project is to analyze election data from Colorado and d
 3. Calculate the total number of votes each candidate received
 4. Calcualte the percentage of votes each candidate won.
 5. Determine the winner of the election based on the popular vote. 
-6. Calcualte the number of 
+6. Calculate the number of votes from each county and the county with the highest turnout. 
 
 
 ### Resources
@@ -21,7 +21,7 @@ The overall goal of this project is to analyze election data from Colorado and d
 
 ### Purpose
 
-To analyze electionn data and determine the winner. 
+To analyze election data and determine the winner. 
 
 ## Election Audit Results
 The analysis of the election shows that: 
@@ -46,5 +46,7 @@ The winner of the election was Diana DeGette. She received the highest number of
 The script provided for this analysis can be used in any election. If the data are organized differently then the index will need to be changed in the code e.g. 
      # Get the candidate name from each row.
         candidate_name = row[2]; the number two here wil need to changed to the index where candidate name exists in that particular dataset 
+     # change the path for file to load and file to save depending on the folder structure and where the file is saved
+        
 
 
