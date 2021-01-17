@@ -44,9 +44,8 @@ The winner of the election was Diana DeGette. She received the highest number of
 
 ## Election-Audit Summary
 The script provided for this analysis can be used in any election. If the data are organized differently then the index will need to be changed in the code e.g. 
-     # Get the candidate name from each row.
-        candidate_name = row[2]; the number two here wil need to changed to the index where candidate name exists in that particular dataset 
-     # change the path for file to load and file to save depending on the folder structure and where the file is saved
+1. Get the candidate name from each row i.e. candidate_name = row[2], the number two here will need to changed to the index where candidate name exists in that particular dataset 
+2. Change the path for file to load and file to save depending on the folder structure and where the file is saved
         
 
 
